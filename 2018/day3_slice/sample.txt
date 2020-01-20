@@ -1,0 +1,1 @@
+Record: 1, Amount: $46, Min: 700.57 , Max: 1000, Height: 1000
